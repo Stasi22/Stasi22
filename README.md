@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Stasi22, or more simply, Louis.
+- 👋 Hi, I’m @Stasi22, or more simply, Jean.
 - 👀 I’m interested in History, Python, Javascript, and psychology.
 - 🌱 I’m currently learning Python and Java.
 - 💞️ I’m looking to collaborate on solving some problems on codewars.
